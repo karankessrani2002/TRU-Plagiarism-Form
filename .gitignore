@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
